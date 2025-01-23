@@ -1,0 +1,4 @@
+国际频道,#genre#
+BBC NEWS,http://50.7.234.10:8278/bbcnews
+TVBS,http://50.7.234.10:8278/tvbs_n
+TVBS,http://50.7.234.10:8278/ca73a13c37
