@@ -87,12 +87,10 @@ Now新闻台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&i
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
 中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw21.m3u8
-tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
-
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://m.osvs.asia:8000/bysid/1
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -108,14 +106,14 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 动物,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 凤凰中文,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=2
-鳳凰資訊,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=3
-鳳凰香港,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=4
-翡翠4K,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=1
+凤凰资讯,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=3
+凤凰香港,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=4
+翡翠台4K,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=1
 翡翠台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=1
 
-凤凰中文台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=6
-凤凰资讯台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=7
-凤凰香港台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=8
+凤凰中文,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=6
+凤凰资讯,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=7
+凤凰香港,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=8
 
 
 
