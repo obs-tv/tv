@@ -49,11 +49,11 @@ CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
 湖南卫视HD,http://sh.lnott.top:880/dx31.m3u8
 深圳卫视HD,http://sh.lnott.top:880/dx61.m3u8
 四川卫视,http://sh.lnott.top:880/dx45.m3u8
-都市剧场HD,http://sh.lnott.top:880/dx107.m3u8
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 安徽卫视,http://sh.lnott.top:880/dx34.m3u8
 广西卫视,http://sh.lnott.top:880/dx41.m3u8
 天津卫视,http://sh.lnott.top:880/dx30.m3u8
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
 
 新 动 漫HD,http://sh.lnott.top:880/dx87.m3u8
 风云剧场HD,http://sh.lnott.top:880/dx94.m3u8
@@ -61,7 +61,7 @@ CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
 法治天地,http://sh.lnott.top:880/dx108.m3u8
 欢笑剧场,http://sh.lnott.top:880/hx.m3u8
 极速汽车,http://sh.lnott.top:880/dx112.m3u8
-江西卫视,http://sh.lnott.top:880/dx43.m3u8
+
 武术世界,http://sh.lnott.top:880/dx206.m3u8
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 金鹰纪实,http://sh.lnott.top:880/dx96.m3u8
@@ -74,6 +74,7 @@ CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
 文物宝库,http://sh.lnott.top:880/dx207.m3u8
 中华特产,http://sh.lnott.top:880/dx83.m3u8
 快乐垂钓,http://sh.lnott.top:880/dx203.m3u8
+都市剧场HD,http://sh.lnott.top:880/dx107.m3u8
 
 CHC影迷电影,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&id=1
 CHC动作电影,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&id=2
