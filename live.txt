@@ -75,24 +75,6 @@ CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
 中华特产,http://sh.lnott.top:880/dx83.m3u8
 快乐垂钓,http://sh.lnott.top:880/dx203.m3u8
 
-央卫咪咕,#genre#
-CCTV-01咪咕,http://goo.bkpcp.top/mg/cctv1
-CCTV-02咪咕,http://goo.bkpcp.top/mg/cctv2
-CCTV-03咪咕,http://goo.bkpcp.top/mg/cctv3
-CCTV-04咪咕,http://goo.bkpcp.top/mg/cctv4
-CCTV-05咪咕,http://goo.bkpcp.top/mg/cctv5
-CCTV-06咪咕,http://goo.bkpcp.top/mg/cctv6
-CCTV-07咪咕,http://goo.bkpcp.top/mg/cctv7
-CCTV-08咪咕,http://goo.bkpcp.top/mg/cctv8
-CCTV-09咪咕,http://goo.bkpcp.top/mg/cctv9
-CCTV-10咪咕,http://goo.bkpcp.top/mg/cctv10
-CCTV-11咪咕,http://goo.bkpcp.top/mg/cctv11
-CCTV-12咪咕,http://goo.bkpcp.top/mg/cctv12
-CCTV-13咪咕,http://goo.bkpcp.top/mg/cctv13
-CCTV-14咪咕,http://goo.bkpcp.top/mg/cctv14
-CCTV-15咪咕,http://goo.bkpcp.top/mg/cctv15
-CCTV-16咪咕,https://yunmei.tv/main/cctv-16.m3u8
-CCTV-17咪咕,http://goo.bkpcp.top/mg/cctv17
 
 国际,#genre#
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
