@@ -70,7 +70,7 @@ CETV1,http://sh.lnott.top:880/dx84.m3u8
 家庭理财,http://sh.lnott.top:880/dx65.m3u8
 游戏风云,http://sh.lnott.top:880/dx111.m3u8
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
-动漫秀场.http://sh.lnott.top:880/dx110.m3u8
+动漫秀场,http://sh.lnott.top:880/dx110.m3u8
 生活时尚,http://sh.lnott.top:880/dx114.m3u8
 快乐垂钓,http://sh.lnott.top:880/dx203.m3u8
 国际,#genre#
