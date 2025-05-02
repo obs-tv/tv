@@ -100,21 +100,11 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+俄罗斯频道,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 动物,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-凤凰中文,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=2
-凤凰资讯,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=3
-凤凰香港,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=4
-翡翠台4K,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat11&id=1
-翡翠台,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=1
-
-凤凰中文,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=6
-凤凰资讯,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=7
-凤凰香港,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat10&id=8
 
 
 
