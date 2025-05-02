@@ -66,7 +66,7 @@ CETV1,http://sh.lnott.top:880/dx84.m3u8
 梨园频道HD,http://sh.lnott.top:880/dx205.m3u8
 法治天地,http://sh.lnott.top:880/dx108.m3u8
 欢笑剧场,http://sh.lnott.top:880/hx.m3u8
-极速汽车,http://sh.lnott.top:880/dx112.m3u8
+
 武术世界,http://sh.lnott.top:880/dx206.m3u8
 乐游,http://sh.lnott.top:880/dx113.m3u8
 金鹰纪实,http://sh.lnott.top:880/dx96.m3u8
