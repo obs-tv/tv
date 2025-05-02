@@ -77,12 +77,7 @@ CETV1,http://sh.lnott.top:880/dx84.m3u8
 生活时尚,http://sh.lnott.top:880/dx114.m3u8
 北京纪实,http://sh.lnott.top:880/dx64.m3u8
 文物宝库,http://sh.lnott.top:880/dx207.m3u8
-中华特产,http://sh.lnott.top:880/dx83.m3u8
 快乐垂钓,http://sh.lnott.top:880/dx203.m3u8
-
-CHC影迷电影,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&id=1
-CHC电影,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&id=2
-CHC家庭电影,http://iptv.diyp.site/L022XMoBNU_公众号【DIYP】.php?key=gat1&id=3
 国际,#genre#
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
