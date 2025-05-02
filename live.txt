@@ -15,7 +15,6 @@ CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15HD,http://sh.lnott.top:880/dx15.m3u8
 CCTV-16HD,http://sh.lnott.top:880/dx201.m3u8
-CCTV-16-4k,http://sh.lnott.top:880/gw777.m3u8
 CCTV-17HD,http://sh.lnott.top:880/dx17.m3u8
 CCTV-5+HD,http://sh.lnott.top:880/dx16.m3u8
 CGTN英语新闻HD,http://sh.lnott.top:880/dx18.m3u8
