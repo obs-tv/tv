@@ -113,7 +113,7 @@ CETV-04高码,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 哈哈炫动高码,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 优漫卡通高码,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
 
-组播,#genre#
+辽宁移动,#genre#
 世界地理,http://sh.lnott.top:880/dx72.m3u8
 央视文化HD,http://sh.lnott.top:880/dx104.m3u8
 乐游,http://sh.lnott.top:880/dx113.m3u8
