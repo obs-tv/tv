@@ -47,20 +47,7 @@ CETV-04高码,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 海南卫视高码,http://itv.iptv1688.top:2016/itv.php?id=海南卫视
 吉林卫视高码,http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
 青海卫视高码,http://itv.iptv1688.top:2016/itv.php?id=青海卫视
-山西卫视高码,http://itv.iptv1688.top:2016/itv.php?id=山西卫视
-陕西卫视高码,http://itv.iptv1688.top:2016/itv.php?id=陕西卫视
-宁夏卫视高码,http://itv.iptv1688.top:2016/itv.php?id=宁夏卫视
-西藏卫视高码,http://itv.iptv1688.top:2016/itv.php?id=西藏卫视
-甘肃卫视高码,http://itv.iptv1688.top:2016/itv.php?id=甘肃卫视
-新疆卫视高码,http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
-延边卫视高码,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
-兵团卫视高码,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
-内蒙古视高码,http://itv.iptv1688.top:2016/itv.php?id=内蒙古卫视
-黑龙江视高码,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
-山东教育高码,http://itv.iptv1688.top:2016/itv.php?id=山东教育
-金鹰卡通高码,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
-哈哈炫动高码,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
-优漫卡通高码,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
+
 
 辽宁移动,#genre#
 世界地理,http://sh.lnott.top:880/dx72.m3u8
