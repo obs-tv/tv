@@ -1,5 +1,4 @@
 央卫河南,#genre#
-央卫河南,#genre#
 CCTV-01高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV-02高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV-03高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
