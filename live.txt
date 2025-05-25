@@ -121,8 +121,85 @@ CCTV-17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
 山东教育,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-SDJY-HD/index.m3u8
 北京纪实,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JSKJ-HD/index.m3u8
 东方财经,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DFCJ-HD/index.m3u8
+组播,#genre#
+世界地理,http://sh.lnott.top:880/dx72.m3u8
+央视文化HD,http://sh.lnott.top:880/dx104.m3u8
+乐游,http://sh.lnott.top:880/dx113.m3u8
+金鹰纪实,http://sh.lnott.top:880/dx96.m3u8
+北京纪实,http://sh.lnott.top:880/dx64.m3u8
+文物宝库,http://sh.lnott.top:880/dx207.m3u8
+CCTV-1HD,http://sh.lnott.top:880/dx01.m3u8
+CCTV-2HD,http://sh.lnott.top:880/dx02.m3u8
+CCTV-3HD,http://sh.lnott.top:880/dx03.m3u8
+CCTV-4HD,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5HD,http://sh.lnott.top:880/dx05.m3u8
+CCTV-6HD,http://sh.lnott.top:880/dx06.m3u8
+CCTV-7HD,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8HD,http://sh.lnott.top:880/dx08.m3u8
+CCTV-9HD,http://sh.lnott.top:880/dx09.m3u8
+CCTV-10HD,http://sh.lnott.top:880/dx10.m3u8
+CCTV-11HD,http://sh.lnott.top:880/dx11.m3u8
+CCTV-12HD,http://sh.lnott.top:880/dx12.m3u8
+CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
+CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
+CCTV-15HD,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16HD,http://sh.lnott.top:880/dx201.m3u8
+CCTV-17HD,http://sh.lnott.top:880/dx17.m3u8
+CCTV-5+HD,http://sh.lnott.top:880/dx16.m3u8
+CGTN英语新闻HD,http://sh.lnott.top:880/dx18.m3u8
+电视指南HD,http://sh.lnott.top:880/dx97.m3u8
+兵器科技HD,http://sh.lnott.top:880/dx81.m3u8
+第一剧场HD,http://sh.lnott.top:880/dx103.m3u8
+风云足球HD,http://sh.lnott.top:880/dx71.m3u8
+风云音乐HD,http://sh.lnott.top:880/dx73.m3u8
+风云剧场HD,http://sh.lnott.top:880/dx94.m3u8
+都市剧场HD,http://sh.lnott.top:880/dx107.m3u8
+怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
+央视台球,http://sh.lnott.top:880/dx82.m3u8
+女性时尚HD,http://sh.lnott.top:880/dx105.m3u8
+高尔夫网球,http://sh.lnott.top:880/dx98.m3u8
+CHC高清电影,http://sh.lnott.top:880/dx101.m3u8
+CHC动作电影,http://sh.lnott.top:880/dx100.m3u8
+CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
+茶频道,http://sh.lnott.top:880/dx106.m3u8
+CETV1,http://sh.lnott.top:880/dx84.m3u8
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
+北京卫视HD,http://sh.lnott.top:880/dx29.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
+湖南卫视HD,http://sh.lnott.top:880/dx31.m3u8
+浙江卫视HD,http://sh.lnott.top:880/dx32.m3u8
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+黑龙江卫视,http://sh.lnott.top:880/dx36.m3u8
+吉林卫视HD,http://sh.lnott.top:880/dx37.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+广东卫视HD,http://sh.lnott.top:880/dx40.m3u8
+广西卫视,http://sh.lnott.top:880/dx41.m3u8
+湖北卫视HD,http://sh.lnott.top:880/dx42.m3u8
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+重庆卫视HD,http://sh.lnott.top:880/dx46.m3u8
+东南卫视HD,http://sh.lnott.top:880/dx47.m3u8
+云南卫视HD,http://sh.lnott.top:880/dx49.m3u8
+贵州卫视HD,http://sh.lnott.top:880/dx50.m3u8
+海南卫视HD,http://sh.lnott.top:880/dx58.m3u8
+深圳卫视HD,http://sh.lnott.top:880/dx61.m3u8
+河北卫视HD,http://sh.lnott.top:880/dx63.m3u8
+新 动 漫HD,http://sh.lnott.top:880/dx87.m3u8
+梨园频道HD,http://sh.lnott.top:880/dx205.m3u8
+法治天地,http://sh.lnott.top:880/dx108.m3u8
+欢笑剧场,http://sh.lnott.top:880/hx.m3u8
+武术世界,http://sh.lnott.top:880/dx206.m3u8
+家庭理财,http://sh.lnott.top:880/dx65.m3u8
+游戏风云,http://sh.lnott.top:880/dx111.m3u8
+金色学堂,http://sh.lnott.top:880/dx109.m3u8
+动漫秀场,http://sh.lnott.top:880/dx110.m3u8
+生活时尚,http://sh.lnott.top:880/dx114.m3u8
+快乐垂钓,http://sh.lnott.top:880/dx203.m3u8
 
 国际,#genre#
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 中天新闻,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=中天新闻
 
@@ -133,18 +210,16 @@ TVB明珠台,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=TVB明珠�
 翡翠台,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=翡翠台
 
 
-翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 无线翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
-无线翡翠4k,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 无线明珠,http://cdn5.132.us.kg/live/mzt/stream.m3u8
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
