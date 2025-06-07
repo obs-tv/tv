@@ -52,6 +52,7 @@ CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
@@ -91,6 +92,18 @@ CCTV17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
 黑龙江卫视,http://171.15.18.199:8180/TV00000000000000000027@HHZT
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
 
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
+上海新纪实,http://8.138.7.223/tv/shtv.php?id=xjs
+上海魔都眼,http://8.138.7.223/tv/shtv.php?id=mdy
+上海乐游,http://8.138.7.223/tv/shtv.php?id=ly
+第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+东方财经,http://8.138.7.223/tv/yicai.php?id=dfcjhd
+
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5$官方源
+海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3$官方源
 
 电信咪咕,#genre#
 CCTV-01咪咕,http://150.138.78.253:10050/migu/608807420?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
