@@ -71,80 +71,25 @@ CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3$官方源
 北京8K超清,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
-电信咪咕,#genre#
-CCTV-01咪咕,http://150.138.78.253:10050/migu/608807420?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-02咪咕,http://150.138.78.253:10050/migu/631780532?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-03咪咕,http://150.138.78.253:10050/migu/624878271?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-04咪咕,http://150.138.78.253:10050/migu/631780421?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-05咪咕,http://150.138.78.253:10050/migu/641886683?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-5+咪咕,http://150.138.78.253:10050/migu/641886773?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-06咪咕,http://150.138.78.253:10050/migu/624878396?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-07咪咕,http://150.138.78.253:10050/migu/673168121?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-08咪咕,http://150.138.78.253:10050/migu/624878356?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-09咪咕,http://150.138.78.253:10050/migu/673168140?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-10咪咕,http://150.138.78.253:10050/migu/624878405?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-11咪咕,http://150.138.78.253:10050/migu/667987558?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-12咪咕,http://150.138.78.253:10050/migu/673168185?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-13咪咕,http://150.138.78.253:10050/migu/608807423?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-14咪咕,http://150.138.78.253:10050/migu/624878440?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-15咪咕,http://150.138.78.253:10050/migu/673168223?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-CCTV-17咪咕,http://150.138.78.253:10050/migu/673168256?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+P2P,#genre#
+中天新聞台,P2p://starvod.xyz:19806/3d4286732dc444f89d884fe9a1a9cd35.ts
+TVBS新聞台,P2p://starvod.xyz:19806/b608ab000afc4cc19a467b01b6181840.ts
+TVBS,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac.ts
+寰宇新聞台,P2p://starvod.xyz:19806/03fa5de4704d42c3ba38e490d3ef003a.ts
+寰宇新聞台灣台,P2p://starvod.xyz:19806/902445beb0d247e1b3cef47c4f8bd626.ts
+France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+翡翠台,P2p://147.135.39.171:9906/67c2952b00074b340fe0faf435a51848.ts
+BBC World News,P2p://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
+BBC World News,P2p://starvod.xyz:19806/423b4ab2af5b4c63834279a5b02bd5d3.ts
+Sky News,P2p://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
+CNBC,P2p://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
+ABC Australia,P2p://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
+France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
+CNN USA,P2p://starvod.xyz:19806/76019d9ab18c4dbe914acdd537168dc8.ts
+CNA,P2p://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
 
 
-东方卫视,http://150.138.78.253:10050/migu/651632648?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-江苏卫视,http://150.138.78.253:10050/migu/623899368?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-东南卫视,http://150.138.78.253:10050/migu/849116810?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-北京卫视,http://live.nctv.top/DJlio/bjtv.php?id=bjws
-江西卫视,http://150.138.78.253:10050/migu/783847495?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-河南卫视,http://150.138.78.253:10050/migu/790187291?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-海南卫视,http://150.138.78.253:10050/migu/947472502?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-湖北卫视,http://150.138.78.253:10050/migu/947472496?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-广东卫视,http://150.138.78.253:10050/migu/608831231?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-陕西卫视,http://150.138.78.253:10050/migu/738910838?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-吉林卫视,http://150.138.78.253:10050/migu/947472500?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
-青海卫视,http://150.138.78.253:10050/migu/947472506?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 
-太原联通,#genre#
-CCTV-01,http://171.116.150.88:9003//hls/1/index.m3u8
-CCTV-02,http://171.116.150.88:9003//hls/2/index.m3u8
-CCTV-03,http://171.116.150.88:9003//hls/3/index.m3u8
-CCTV-04,http://171.116.150.88:9003//hls/4/index.m3u8
-CCTV-05,http://171.116.150.88:9003//hls/5/index.m3u8
-CCTV-5+,http://171.116.150.88:9003//hls/6/index.m3u8
-CCTV-06,http://171.116.150.88:9003//hls/7/index.m3u8
-CCTV-07,http://171.116.150.88:9003//hls/8/index.m3u8
-CCTV-08,http://171.116.150.88:9003//hls/9/index.m3u8
-CCTV-09,http://171.116.150.88:9003//hls/10/index.m3u8
-CCTV-10,http://171.116.150.88:9003//hls/11/index.m3u8
-CCTV-12,http://171.116.150.88:9003//hls/13/index.m3u8
-CCTV-13,http://171.116.150.88:9003//hls/14/index.m3u8
-CCTV-14,http://171.116.150.88:9003//hls/15/index.m3u8
-CCTV-16,http://171.116.150.88:9003//hls/17/index.m3u8
-CCTV-17,http://171.116.150.88:9003//hls/18/index.m3u8
-北京卫视,http://171.116.150.88:9003//hls/20/index.m3u8
-东方卫视,http://171.116.150.88:9003//hls/23/index.m3u8
-江苏卫视,http://171.116.150.88:9003//hls/35/index.m3u8
-湖南卫视,http://171.116.150.88:9003//hls/33/index.m3u8
-广东卫视,http://171.116.150.88:9003//hls/26/index.m3u8
-安徽卫视,http://171.116.150.88:9003//hls/21/index.m3u8
-辽宁卫视,http://171.116.150.88:9003//hls/37/index.m3u8
-山西卫视,http://171.116.150.88:9003//hls/19/index.m3u8
-河北卫视,http://171.116.150.88:9003//hls/29/index.m3u8
-河南卫视,http://171.116.150.88:9003//hls/30/index.m3u8
-江西卫视,http://171.116.150.88:9003//hls/36/index.m3u8
-湖北卫视,http://171.116.150.88:9003//hls/32/index.m3u8
-重庆卫视,http://171.116.150.88:9003//hls/22/index.m3u8
-广西卫视,http://171.116.150.88:9003//hls/27/index.m3u8
-东南卫视,http://171.116.150.88:9003//hls/24/index.m3u8
-甘肃卫视,http://171.116.150.88:9003//hls/25/index.m3u8
-吉林卫视,http://171.116.150.88:9003//hls/34/index.m3u8
-黑龙江视,http://171.116.150.88:9003//hls/31/index.m3u8
-动作电影,http://ali.hlspull.yximgs.com/live/6871dafc920a73e359888af4ea3eb1e8.flv
-家庭影院,http://ali.hlspull.yximgs.com/live/7d1b72eb97316a2b539bb471c1d82c94.flv
-影迷电影,http://ali.hlspull.yximgs.com/live/d557f743cc2d9d0e6ed2b1883e67d1ff.flv
 
 
 国际,#genre#
