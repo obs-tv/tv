@@ -175,6 +175,7 @@ CNA,P2p://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
 
 
 国际,#genre#
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 凤凰中文AKtv,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰资讯AKtv,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
