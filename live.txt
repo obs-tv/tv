@@ -233,6 +233,23 @@ CGTN纪录,https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbcd/playlist
 乐游,http://111.8.242.104:4085/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 
+湖南经视,http://111.8.242.104:4085/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://111.8.242.104:4085/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南爱晚,http://111.8.242.104:4085/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://111.8.242.104:4085/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://111.8.242.104:4085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://111.8.242.104:4085/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+先锋乒羽,http://111.8.242.104:4085/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+四海钓鱼,http://111.8.242.104:4085/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://111.8.242.104:4085/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+茶频道,http://111.8.242.104:4085/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://111.8.242.104:4085/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://111.8.242.104:4085/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+欢笑剧场,http://111.8.242.104:4085/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+动漫剧场,http://111.8.242.104:4085/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://111.8.242.104:4085/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://111.8.242.104:4085/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
