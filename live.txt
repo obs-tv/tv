@@ -121,8 +121,34 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
-国际,#genre#
 
+浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+国际,#genre#
+凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
+中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+中天新闻实时,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻实时,https://live.catvod.com/live.php?id=ctinews&token=346d2e561481b3a30f414d52af18a3261a8e65897808262c0833a9ef37317873%3A1763376182%3AMTQuMTE3LjE0Ni4xMTY%3D
+中天新闻实时,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+凤凰中文频高,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰资讯频高,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰香港频高,http://bxtv.3a.ink/api.php?id=fhhk
+中天新闻频高,http://bxtv.3a.ink/api.php?id=ztxw
+无线新闻频高,http://bxtv.3a.ink/api.php?id=wxxw
+无线翡翠频高,http://bxtv.3a.ink/api.php?id=fct
+无线明珠频高,http://bxtv.3a.ink/api.php?id=mz
+凤凰中文频美,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯频美,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港频美,https://cdn6.101.qzz.io/163189/fhhk
+无线新闻频美,https://cdn6.101.qzz.io/163189/wxxw
+无线翡翠频美,https://cdn6.101.qzz.io/163189/fct
+无线翡翠频美,https://mytv.cdn.loc.cc/o12.php?id=fct
+无线明珠频美,https://mytv.cdn.loc.cc/o12.php?id=mzt
+tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
