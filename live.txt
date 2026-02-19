@@ -115,11 +115,19 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 浙江卫视4K,https://migu.188766.xyz/?migutoken=2b3a56b6ce581164684ae52c772b9f87&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=7046a9e2740731bba35f18a05c4a7f71&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视4K,https://migu.188766.xyz/?migutoken=764ee2e40ca3cb790cdae1d0888732ff&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+武术世界,https://migu.188766.xyz/?migutoken=91cb303749b86ffb841b9767648bc003&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+北京纪实科教,https://migu.188766.xyz/?migutoken=470a791f1209f7dfd7d97189adae264a&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+河南武术,https://migu.188766.xyz/?migutoken=c6e03c4afddce3e3f445bb5611ac3565&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+河南文物宝库,https://migu.188766.xyz/?migutoken=9beb48b75666402d709b4083ff451068&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+河南象视界,https://migu.188766.xyz/?migutoken=8d3caabc4bd3adb692a4d2de29ed76dd&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+
 
 国际,#genre#
 中天新聞Ustv,http://rihou.cc:555/tv/[Us]中天新聞
